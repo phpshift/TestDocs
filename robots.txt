@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /.system/
+Disallow: /assets/
+Disallow: /version/
+Allow: /
+
+Sitemap: https://docs.phpshift.com/assets/sitemap.xml
